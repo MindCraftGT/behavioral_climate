@@ -70,7 +70,6 @@ const Becomemember = () => {
           </div>
         </div>
       </div>
-      
       <Footer />
       <Bottomfooter />
     </>
